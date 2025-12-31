@@ -23,11 +23,5 @@ Working with frontend, backend, databases, and Docker-based production environme
 - Clean architecture and stable deployments  
 
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
-
 🌐 https://yazdum.ru
 📫 yazdum.dev@proton.me
