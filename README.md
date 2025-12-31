@@ -1,6 +1,6 @@
 # Hi, I'm Yazdum 👋
 
-**Full-Stack Developer**
+**Full-Stack Developer | Software Engineer**
 
 I build production-ready web services, bots, and integrations — from architecture to deployment.  
 Working with frontend, backend, databases, and Docker-based production environments.
@@ -34,3 +34,4 @@ Working with frontend, backend, databases, and Docker-based production environme
 ---
 
 🌐 https://yazdum.ru
+📫 yazdum.dev@proton.me
