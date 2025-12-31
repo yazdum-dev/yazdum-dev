@@ -5,7 +5,6 @@
 I build production-ready web services, bots, and integrations — from architecture to deployment.  
 Working with frontend, backend, databases, and Docker-based production environments.
 
----
 
 ## 🛠 Stack
 
@@ -15,7 +14,6 @@ Working with frontend, backend, databases, and Docker-based production environme
 **DevOps:** Docker, Linux, Nginx, Git  
 **Integrations:** Telegram bots, 1C, CRM
 
----
 
 ## 🚀 Focus
 
@@ -24,7 +22,6 @@ Working with frontend, backend, databases, and Docker-based production environme
 - MVPs and internal tools  
 - Clean architecture and stable deployments  
 
----
 
 ## 📊 GitHub
 
